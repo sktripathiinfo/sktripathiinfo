@@ -43,6 +43,10 @@
 - Identified critical bugs in major campaigns, improving **overall software quality**.
 - Achieved a 30% reduction in defects through meticulous bug tracking, in-depth root cause analysis, and effective collaboration with development teams.
 - Trained junior QA team members, leading to **40% faster test execution** and **increased coverage**.
+  
+<h2 class="heading-element" dir="auto">💻 Framework WalkThrough</h2>
+
+<h2 class="heading-element" dir="auto">💻 My Projects</h2>
 
 
 <h2 class="heading-element" dir="auto">💼 Technical Skills</h2>
