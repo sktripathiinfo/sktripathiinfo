@@ -45,6 +45,8 @@
 - Trained junior QA team members, leading to **40% faster test execution** and **increased coverage**.
   
 <h2 class="heading-element" dir="auto">💻 Framework WalkThrough</h2>
+  <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/Framework.png" />
+
 
 <h2 class="heading-element" dir="auto">💻 My Projects</h2>
 
