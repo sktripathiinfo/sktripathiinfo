@@ -49,6 +49,17 @@
 
 
 <h2 class="heading-element" dir="auto">💻 My Projects</h2>
+  <a href="https://github.com/sktripathiinfo/WebAutomation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sktripathiinfo&repo=WebAutomation" alt="Web Automation Project" style="max-width: 100%;">
+</a>
+   
+
+
+
+
+
+
+
 
 
 <h2 class="heading-element" dir="auto">💼 Technical Skills</h2>
