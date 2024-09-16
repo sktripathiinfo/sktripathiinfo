@@ -11,13 +11,13 @@
 <p align="center">
   <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/sktripathi" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px" style="max-width: 100%;">
+    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/linkedin.svg" alt="Shubham Tripathi | LinkedIn" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://instagram.com/S.k_tripathi" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px" style="max-width: 100%;">
+    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/instagram.svg" alt="S.k_tripathi | Instagram" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://api.whatsapp.com/send?phone=9648424090&text=Hello" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px" style="max-width: 100%;">
+    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/whatsapp.png" alt="Shubham Tripathi | Whatsapp" width="21px" style="max-width: 100%;">
   </a>
 </p>
 </p>
@@ -107,13 +107,13 @@
 <p align="center">
   <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/sktripathi" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px" style="max-width: 100%;">
+    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/linkedin.svg" alt="Shubham Tripathi | LinkedIn" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://instagram.com/S.k_tripathi" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px" style="max-width: 100%;">
+    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/instagram.svg" alt="S.k_tripathi | Instagram" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://api.whatsapp.com/send?phone=9648424090&text=Hello" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px" style="max-width: 100%;">
+    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/whatsapp.png" alt="Shubham Tripathi | Whatsapp" width="21px" style="max-width: 100%;">
   </a>
 </p>
 </p>
