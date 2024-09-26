@@ -33,7 +33,7 @@
 - **Web Automation Project**: Utilizing `pytest`, `Selenium`, and `Python`.
 - **OAuth 2.0 API Testing** using Google authentication login.
 - Enhancing **UI/API automation** for web applications.
-
+- **Linux**
 <h2 class="heading-element" dir="auto">🏆 Achievements</h2>
 
 
