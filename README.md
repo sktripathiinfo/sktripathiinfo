@@ -38,7 +38,7 @@
 
 
 - Implemented robust testing strategies, leading to **25% increased test coverage**.
-- Performed comprehensive testing across more than 200 email campaigns (NER, CER, PAR, NER EV, Accessories, NSP, CRC, achieving 100% coverage and ensuring full compliance 
+- Performed comprehensive testing across more than 200 email campaigns achieving 100% coverage and ensuring full compliance 
   with campaign standards.
 - Identified critical bugs in major campaigns, improving **overall software quality**.
 - Achieved a 30% reduction in defects through meticulous bug tracking, in-depth root cause analysis, and effective collaboration with development teams.
