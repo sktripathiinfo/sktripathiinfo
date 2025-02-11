@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png" />
 </p>
-<h3 align="center" class="heading-element" dir="auto">Hi there, I'm <a href="https://www.linkedin.com/in/sktripathi/" rel="nofollow">Shubham Tripathi</a> 👋</h3>
+<h3 align="center" class="heading-element" dir="auto">Hi there, I'm <a href="www.linkedin.com/in/tstripathi" rel="nofollow">Shubbham Tripathii</a> 👋</h3>
 
 <h2 align="center" class="heading-element" dir="auto">I'm QA Specialist 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
 
@@ -10,11 +10,11 @@
 
 <p align="center">
   <p align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/sktripathi" rel="nofollow">
+  <a href="www.linkedin.com/in/tstripathi" rel="nofollow">
     <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/linkedin.svg" alt="Shubham Tripathi | LinkedIn" width="21px" style="max-width: 100%;">
   </a>
-  <a href="https://instagram.com/S.k_tripathi" rel="nofollow">
-    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/instagram.svg" alt="S.k_tripathi | Instagram" width="21px" style="max-width: 100%;">
+  <a href="https://instagram.com/ts_tripathi" rel="nofollow">
+    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/instagram.svg" alt="ts_tripathi | Instagram" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://api.whatsapp.com/send?phone=9648424090&text=Hello" rel="nofollow">
     <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/whatsapp.png" alt="Shubham Tripathi | Whatsapp" width="21px" style="max-width: 100%;">
@@ -119,15 +119,15 @@
 <p align="center" dir="auto">
   I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at 
   <a href="mailto:tripathi3006@gmail.com">tripathi3006@gmail.com</a> or connect with me on 
-  <a href="https://www.linkedin.com/in/sktripathi" rel="nofollow">LinkedIn</a>.
+  <a href="https://www.linkedin.com/in/tstripathi" rel="nofollow">LinkedIn</a>.
 </p>
 <p align="center">
   <p align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/sktripathi" rel="nofollow">
+  <a href="https://www.linkedin.com/in/tstripathi" rel="nofollow">
     <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/linkedin.svg" alt="Shubham Tripathi | LinkedIn" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://instagram.com/S.k_tripathi" rel="nofollow">
-    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/instagram.svg" alt="S.k_tripathi | Instagram" width="21px" style="max-width: 100%;">
+    <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/instagram.svg" alt="ts_tripathi | Instagram" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://api.whatsapp.com/send?phone=9648424090&text=Hello" rel="nofollow">
     <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/whatsapp.png" alt="Shubham Tripathi | Whatsapp" width="21px" style="max-width: 100%;">
