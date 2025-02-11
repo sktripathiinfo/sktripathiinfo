@@ -10,7 +10,7 @@
 
 <p align="center">
   <p align="center" dir="auto">
-  <a href="www.linkedin.com/in/tstripathi" rel="nofollow">
+  <a href="https://www.linkedin.com/in/tstripathi" rel="nofollow">
     <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/linkedin.svg" alt="Shubham Tripathi | LinkedIn" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://instagram.com/ts_tripathi" rel="nofollow">
