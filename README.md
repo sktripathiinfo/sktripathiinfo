@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png" />
+  <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/Personal%20Profile.png" />
 </p>
 <h3 align="center" class="heading-element" dir="auto">Hi there, I'm <a href="www.linkedin.com/in/tstripathi" rel="nofollow">Shubbham Tripathii</a> 👋</h3>
 
