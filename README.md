@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/tstripathi" rel="nofollow">
     <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/linkedin.svg" alt="Shubham Tripathi | LinkedIn" width="21px" style="max-width: 100%;">
   </a>
-  <a href="https://instagram.com/ts_tripathi" rel="nofollow">
+  <a href="https://www.instagram.com/tripathicle/" rel="nofollow">
     <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/instagram.svg" alt="ts_tripathi | Instagram" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://api.whatsapp.com/send?phone=9648424090&text=Hello" rel="nofollow">
@@ -126,7 +126,7 @@
   <a href="https://www.linkedin.com/in/tstripathi" rel="nofollow">
     <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/linkedin.svg" alt="Shubham Tripathi | LinkedIn" width="21px" style="max-width: 100%;">
   </a>
-  <a href="https://instagram.com/S.k_tripathi" rel="nofollow">
+  <a href="https://www.instagram.com/tripathicle/" rel="nofollow">
     <img src="https://github.com/sktripathiinfo/sktripathiinfo/blob/main/instagram.svg" alt="ts_tripathi | Instagram" width="21px" style="max-width: 100%;">
   </a>
   <a href="https://api.whatsapp.com/send?phone=9648424090&text=Hello" rel="nofollow">
